@@ -170,7 +170,10 @@ h5{
     background-color: #8EEEE0;
     padding: 4%;
     background-size: cover;
-    gap: 80px;
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
